@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356234687929",
+    "firebase_url": "https://implementing-firebase.firebaseio.com",
+    "project_id": "implementing-firebase",
+    "storage_bucket": "implementing-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356234687929:android:9a17c077e2d3848bf3f268",
+        "android_client_info": {
+          "package_name": "com.farida.implementing_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356234687929-aamimsiardiamv5e5nod6dhtm82m6rqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kavBQEVRlZzQX_STHs4BdGRfrDKeiVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356234687929-aamimsiardiamv5e5nod6dhtm82m6rqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
